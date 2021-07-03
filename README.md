@@ -1,6 +1,6 @@
 
 
-# Electronic Store Sales Project Repository
+# Electronics Store Sales Project Repository
 
 
 **Part of series of projects to build my portfolio and practice the skills I learned.**
